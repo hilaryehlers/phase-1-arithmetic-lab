@@ -16,3 +16,6 @@ console.log(mod);
 
 let max = Math.max(10, 5, 20, 15);
 console.log(max);
+
+
+
